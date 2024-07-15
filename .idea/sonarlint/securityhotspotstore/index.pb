@@ -1,0 +1,25 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+G
+src/main/java/Main.java,e\4\e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
+X
+(src/test/java/MessageSenderImplTest.java,8\2\82526183b1b97b8fb517b002981a88654e1153f8
+^
+.src/main/java/ru/netology/entity/Location.java,4\9\491aee3abe8fbdcac121ccb8ab1efe477e1736b7
+]
+-src/main/java/ru/netology/entity/Country.java,8\0\8015450917de6fb31a96a01fa31ef18ea03fc978
+]
+-src/main/java/ru/netology/geo/GeoService.java,5\a\5a08651269b02cd661e06392ea2c1bb39b45cf7d
+a
+1src/main/java/ru/netology/geo/GeoServiceImpl.java,1\8\183abc4c2b2e239c45cab2bc15eaaecccbc1ea05
+g
+7src/main/java/ru/netology/i18n/LocalizationService.java,a\8\a810b81c625056d0e8e82a48560bd39ca59ec377
+k
+;src/main/java/ru/netology/i18n/LocalizationServiceImpl.java,f\7\f7bf4f2ed1f528219a3eaffc1306de475dab6b16
+c
+3src/main/java/ru/netology/sender/MessageSender.java,7\0\7063040bf58a63c331f987eb3cb4268c3a5ca534
+g
+7src/main/java/ru/netology/sender/MessageSenderImpl.java,0\d\0d88920739f5a02716687fabeb9b6a3f1b099dac
